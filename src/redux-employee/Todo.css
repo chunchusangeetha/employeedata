@@ -1,0 +1,49 @@
+table,th,td {
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+table{
+    margin: auto;
+ 
+}
+.tableclass {
+    background-color: bisque;
+    margin: 0;
+}
+.heading h2 , h3{
+    text-align: center ;
+}
+.homebutton{
+    display: flex;
+    justify-content: space-around;
+}
+.inputfield {
+    display: inline-grid;
+    margin: 10px;
+    justify-content: center;
+}
+
+.inputfields {
+    display: grid;
+    background-color: thistle;
+
+}
+.Vinputfields {
+    display: flex;
+   justify-content: center;
+
+}
+.buttonfield {
+    display: flex;
+    justify-content: center;
+    background-color: thistle;
+    margin: 10px;
+}
+.Buttonfield {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.main{
+background-color: cyan;
+}
